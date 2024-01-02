@@ -13,3 +13,4 @@
 `chmod u+x filename`
 - TO RUN THE BASH SCRIPT
 `./filename`
+![Funny meme](https://i.chzbgr.com/full/8755619072/h61B99DF0/have-you-accepted-a-better-computing-experience)
