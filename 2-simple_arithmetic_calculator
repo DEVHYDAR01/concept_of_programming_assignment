@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+# A simple script to do some computational arithmetic calculation
+echo "Enter the first number"
+read firstnumber
+echo "Enter the second number"
+read secondnumber
+addition=$(($firstnumber + $secondnumber))
+echo "The addition of both is: $addition"
+subtraction=$(($firstnumber - $secondnumber))
+echo "The subtraction of both is: $subtraction"
+division=$(($firstnumber / $secondnumber))
+echo "The division of both is: $division"
+mult=$(($firstnumber * $secondnumber))
+echo "The multiplcaton of both is: $mult"
+mod=$(($firstnumber % $secondnumber))
+echo "The mod of both is: $mod"
