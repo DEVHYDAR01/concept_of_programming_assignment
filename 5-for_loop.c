@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * A for loop to illustrate a break and continue within a for loop
+ * A loop to illustrate a break and continue within a for loop
  *
  */
 int main(void)
