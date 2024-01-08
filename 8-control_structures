@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+echo "enter your digit"
+read digit1
+read digit2
+
+if [ $digit1 -lt $digit2 ]
+then
+	echo "$digit1 is < $digit2"
+elif [ $digit1 -gt $digit2 ]
+then
+	echo "$digit1 is > $digit2"
+fi
